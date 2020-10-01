@@ -66,6 +66,8 @@ To watch a trained smart agent, follow the instructions below:
 Several enhancements to the original DQN algorithm have also been incorporated:
 
 - Double DQN [[Paper](https://arxiv.org/abs/1509.06461)]
+- Experience replay 
+- Pytoch LR optimizer
 
 ### Results
 
