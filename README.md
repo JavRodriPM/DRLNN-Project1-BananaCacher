@@ -77,7 +77,7 @@ The environment was solved in **500** episodes.
  DQN | Double DQN |
 -------------------------|-------------------------|
 
-![dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/dqn_scores.png) | ![double-dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/ddqn_scores.png) |
+![dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/blob/main/misc/dqn_scores.png) | ![double-dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/blob/main/misc/ddqn_scores.png) |
 
 ## Dependencies
 
