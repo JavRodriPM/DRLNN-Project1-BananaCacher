@@ -22,8 +22,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 Here we have an example of how the agent behaves in random mode, and how it does after DRL-DQN implementation and training.
 
 
-| Random agent             |  Trained agent |
-:-------------------------:|:-------------------------:
+ Random agent             |  Trained agent 
+-------------------------|-------------------------
 ![Random Agent][video_random]  |  ![Trained Agent][video_trained]
 
 
@@ -74,9 +74,12 @@ Several enhancements to the original DQN algorithm have also been incorporated:
 Plot and figures showing the score per episode over all the episodes and a summary of the figures. 
 The environment was solved in **500** episodes.
 
- DQN | Double DQN
--------------------------|-------------------------
-![dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/dqn_scores.png) | ![double-dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/ddqn_scores.png)
+ DQN | 
+-------------------------|
+![dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/dqn_scores.png) | 
+Double DQN |
+-------------------------|
+![double-dqn-scores](https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/tree/main/misc/ddqn_scores.png) |
 
 ## Dependencies
 
