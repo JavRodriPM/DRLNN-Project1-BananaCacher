@@ -1,8 +1,8 @@
 [//]: # (Image References)
 
-[video_random]: https://github.com/JavRodriPM/DDRLN-Project1-BananaCacher/misc/random_agent.gif "Random Agent"
+[video_random]: https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/blob/main/misc/random_agent.gif "Random Agent"
 
-[video_trained]: https://github.com/JavRodriPM/DDRLN-Project1-BananaCacher/misc/trained_agent.gif "Trained Agent"
+[video_trained]: https://github.com/JavRodriPM/DRLNN-Project1-BananaCacher/blob/main/misc/trained_agent.gif "Trained Agent"
 
 # Project 1: Navigation
 
